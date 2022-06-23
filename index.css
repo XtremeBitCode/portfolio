@@ -1,0 +1,294 @@
+body {
+    margin: 0;
+    font-family: monospace;
+}
+
+.containerOne h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+.containerOne {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.bottomPart img {
+    width: 400px;    
+    margin: 10px 150px;
+}
+
+.name p {
+    font-weight: bold;
+}
+
+.containerOne p {
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.containerTwo {
+    margin-top: 0;
+    margin-bottom: 60px;
+}    
+
+.containerTwo .containerTwoLeftSide {
+    float: left;
+    width: 40%; 
+    margin-left: 150px;
+}
+
+.containerTwo img {
+    width: 500px;
+    height: 700px;
+}    
+
+.containerTwo .containerTwoRightSide {
+    background-color: #d7dbe0;
+    margin-left: 670px;    
+    margin-right: 100px;
+    padding: 10px 0px 20px 10px;
+    font-family: monospace;
+    font-size: 17px;   
+}
+
+.containerThree {
+    margin: 0 0 60px 150px;
+    
+}
+
+.containerThreeLeftSide {
+    background-color: #d7dbe0;
+    color: black;
+    text-align: center;
+    margin: 0 420px 0 0;
+    padding: 0 10px 15px 10px;
+    font-size: 17px;
+
+}
+
+.containerThree img {
+    float: right;
+    width: 300px;
+    height: 305px;
+    object-fit: cover;
+    margin: 0 100px 0 0;
+    
+} 
+
+h3 {
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.readMoreLink {
+    margin-top: 0;
+    background-color: #959e97;
+    border: 1px solid #959e97;
+    text-align: center;
+    padding: 0px 10px 20px 10px;
+    color: white;
+}
+
+.containerThree p {
+    margin-bottom: 50px;
+}
+
+.containerThree .readMoreLink {
+    margin-right: 290px;
+    margin-left: 310px;
+    text-align: center;
+}
+
+.containerFour {
+    margin: 0 0 0 150px;
+    padding-bottom: 50px;
+}
+
+.containerFour img {
+    float: left;
+    width: 300px;
+    height: 305px;
+    object-fit: cover;
+    margin: 0 20px 0 0;
+    
+} 
+
+.containerFourRightSide {
+    background-color: #d7dbe0;
+    text-align: center;
+    margin: 0 100px 0 320px;
+    padding: 0 10px 15px 10px;
+    font-size: 17px;
+
+}
+.containerFour p {
+    margin-bottom: 35px;
+}
+.containerFour .readMoreLink {
+    margin-right: 280px;
+    margin-left: 320px;
+    text-align: center; 
+}
+
+
+.containerFive {
+    margin: 0 0 60px 150px;
+       
+}
+
+.containerFiveLeftSide {
+    background-color: #d7dbe0;
+    color: black;
+    text-align: center;
+    margin: 0 420px 0 0;
+    padding: 0 10px 15px 10px;
+    font-size: 17px;
+
+}
+
+.containerFive p {
+    margin-bottom: 20px;
+}
+.containerFive img {
+    float: right;
+    width: 300px;
+    height: 305px;
+    object-fit: cover;
+    margin: 0 100px 0 0;
+    
+} 
+
+.containerFive p {
+    margin-bottom: 75px;
+}
+
+.containerFive .readMoreLink {
+    margin-right: 290px;
+    margin-left: 310px;
+    text-align: center;
+}
+
+
+/*
+.containerTwo img {
+    width: 500px;
+    height: 700px;
+}    
+
+.containerTwo .containerTwoRightSide {
+    background-color: #d7dbe0;
+    margin-left: 670px;    
+    margin-right: 100px;
+    padding: 10px 0px 20px 10px;
+    font-family: monospace;
+    font-size: 17px;   
+}
+/*
+
+.containerThree h3 {
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.readMoreLink {
+    margin-top: 0;
+    background-color: #959e97;
+    border: 1px solid #959e97;
+    text-align: center;
+    padding: 0px 10px 20px 10px;
+    color: white;
+}
+
+.containerThree p {
+    margin-bottom: 50px;
+}
+/*
+.box2 h3 {
+    padding-top: 40px; 
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+
+.box2 p {
+    padding-left: 30px;
+    padding-right: 200px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    width: 90%;
+    
+}
+
+.image3 {
+    float: right;
+    width: 200px;
+    padding-right: 20px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+
+
+.box3 {
+    background-color: #e1e8e1;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.image4 {
+    float: left;
+    width: 200px;
+    padding-right: 20px;
+    padding-top: 25px; 
+    padding-bottom: 10px;
+    margin-top: 0;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.right2 {
+    background-color: #ad9f9e;
+    color: black;
+    margin-top: 35px;
+    margin-left: 280px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    text-align: center;
+    width: 72%;
+        
+}
+.box3 h3 {
+    padding-top: 40px; 
+    
+    margin-bottom: 0;
+}
+
+.box3 p {
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.box4 {
+  
+}
+
+.life h1 {
+    text-align: center;
+}
+
+.life p {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+
+}
+
